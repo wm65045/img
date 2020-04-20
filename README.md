@@ -1,5 +1,7 @@
-# img
+# PicGo
 
+
++ Token 只给repo权限即可，注意备份
 + PicGo中文手册
 https://picgo.github.io/PicGo-Doc/zh/guide/
 
@@ -11,6 +13,4 @@ https://picgo.github.io/PicGo-Doc/zh/guide/
 ![截图时间20200420](https://cdn.jsdelivr.net/gh/wm65045/img/2020/example.png)
 
 
-
-
-<center>20200420</center>
+20200420
