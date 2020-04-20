@@ -2,7 +2,8 @@
 
 + 谷歌压缩 https://squoosh.app/
    [相关开发者文章](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=zh-cn)
-+ TinyPNG https://tinypng.com/
++ TinyPNG 导入支持JPG PNG https://tinypng.com/
++ 导入格式甚至含psd,导出全为JPG，可批量，导出下载为压缩包 https://www.jpeg.io/
 + Token 只给repo权限即可，注意备份
 + PicGo中文手册
 https://picgo.github.io/PicGo-Doc/zh/guide/
