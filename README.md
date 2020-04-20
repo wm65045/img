@@ -1,6 +1,8 @@
 # PicGo
 
-
++ 谷歌压缩 https://squoosh.app/
+   [相关开发者文章](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=zh-cn)
++ TinyPNG https://tinypng.com/
 + Token 只给repo权限即可，注意备份
 + PicGo中文手册
 https://picgo.github.io/PicGo-Doc/zh/guide/
