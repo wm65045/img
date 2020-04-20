@@ -1,5 +1,6 @@
 # PicGo
 
++ Typora联动PicGo自动化上传 [知乎](https://zhuanlan.zhihu.com/p/114175770) [CSDN](https://blog.csdn.net/disILLL/article/details/104944710)
 + 压缩软件 https://saerasoft.com/caesium/
 + 谷歌压缩 https://squoosh.app/  Guetzli算法
    [相关开发者文章](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=zh-cn)
