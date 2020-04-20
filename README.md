@@ -1,6 +1,7 @@
 # PicGo
 
-+ 谷歌压缩 https://squoosh.app/
++ 压缩软件 https://saerasoft.com/caesium/
++ 谷歌压缩 https://squoosh.app/  Guetzli算法
    [相关开发者文章](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=zh-cn)
 + TinyPNG 导入支持JPG PNG https://tinypng.com/
 + 导入格式甚至含psd,导出全为JPG，可批量，导出下载为压缩包 https://www.jpeg.io/
