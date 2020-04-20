@@ -8,7 +8,7 @@ https://picgo.github.io/PicGo-Doc/zh/guide/
 
 例https://cdn.jsdelivr.net/gh/wm65045/img/2020/example.png
 
-![https://cdn.jsdelivr.net/gh/wm65045/img/2020/example.png] 截图时间20200420
+![截图时间20200420](https://cdn.jsdelivr.net/gh/wm65045/img/2020/example.png)
 
 
 
